@@ -27,7 +27,7 @@ Se preferisci configurarlo a mano dalla dashboard:
 3. Compila i seguenti campi:
    - **Name**: `live-wordcloud` (o il nome che preferisci)
    - **Runtime**: `Node`
-   - **Build Command**: `npm install --legacy-peer-deps --include=dev --include=optional && npm run build`
+   - **Build Command**: `npm install --legacy-peer-deps && npm install @rolldown/binding-linux-x64-gnu@1.2.14 --legacy-peer-deps --no-save && npm run build`
    - **Start Command**: `npm run start`
    - **Instance Type**: `Free`
 4. Nella sezione **Environment Variables**, aggiungi:
