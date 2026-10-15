@@ -3,7 +3,7 @@ services:
     name: live-wordcloud
     env: node
     plan: free
-    buildCommand: npm install --legacy-peer-deps --include=dev && npm run build
+    buildCommand: npm install --legacy-peer-deps --include=dev --include=optional && npm run build
     startCommand: npm run start
     healthCheckPath: /api/state
     autoDeploy: true
