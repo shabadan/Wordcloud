@@ -1,0 +1,27 @@
+{
+  "adminPassword": "admin",
+  "question": "Quale parola descrive meglio questa esperienza?",
+  "isOpen": true,
+  "words": {
+    "ENTUSIASMANTE": 9,
+    "INNOVATIVO": 7,
+    "COINVOLGENTE": 6,
+    "FUTURO": 5,
+    "CREATIVITÀ": 5,
+    "ISPIRAZIONE": 4,
+    "VELOCE": 4,
+    "ENERGIA": 3,
+    "COLLABORAZIONE": 3,
+    "BRILLANTE": 2,
+    "CONCRETO": 2,
+    "FLESSIBILE": 2,
+    "FANTASTICO": 1
+  },
+  "submissionsHistory": [
+    {
+      "id": "tf3r4mj",
+      "word": "FANTASTICO",
+      "timestamp": 1792052790055
+    }
+  ]
+}

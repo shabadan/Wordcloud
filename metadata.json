@@ -1,0 +1,6 @@
+{
+  "name": "Live WordCloud Interactive",
+  "description": "Applicazione web in tempo reale per la creazione di Word Cloud interattivi, con schermo live anti-sovrapposizione, invio risposte utenti e pannello di controllo admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
